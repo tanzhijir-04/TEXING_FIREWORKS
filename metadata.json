@@ -1,0 +1,5 @@
+{
+  "name": "Whispering Fireworks",
+  "description": "A hyper-realistic particle physics simulation where fireworks morph into user-defined text using HTML5 Canvas and React.",
+  "requestFramePermissions": []
+}
